@@ -6,3 +6,5 @@ console.log(login)
 
 const footer = 'footer added'
 console.log(footer)
+
+console.log('Latest Update')
